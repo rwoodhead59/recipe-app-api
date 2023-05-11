@@ -1,5 +1,3 @@
-"""Django command to wait for the db to be available """
-
 """
 Django command to wait for the database to be available.
 """
